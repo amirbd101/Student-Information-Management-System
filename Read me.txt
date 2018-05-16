@@ -1,0 +1,4 @@
+Create a database name : student.
+run file in browser: localhost/Student/confiq.php .
+run file in browser: localhost/Student/table.php .
+run file in browser : localhost/Student/index.php.
